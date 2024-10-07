@@ -1,0 +1,4 @@
+user-agent: *
+allow: /
+
+sitemap: https://zumbienews.github.io/daily/sitemap_index.xml
